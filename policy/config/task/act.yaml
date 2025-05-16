@@ -1,0 +1,31 @@
+name: open
+
+image_shape: [3, 256, 256]
+dataset_path: outputs/collect/2025.05.04/17.43.36_open_task/dataset
+obs_keys: &obs_keys ['camera_1', 'camera_2', 'agent_pose']
+
+shape_meta: &shape_meta
+  # acceptable types: rgb, low_dim
+  obs:
+    camera_1:
+      shape: ${task.image_shape}
+      type: rgb
+    camera_2:
+      shape: ${task.image_shape}
+      type: rgb
+    agent_pose:
+      shape: [8]
+      type: low_dim
+  action: 
+    shape: [8]
+
+
+dataset:
+  _target_: policy.dataset.act_image_dataset.ACTImageDataset
+  shape_meta: *shape_meta
+  dataset_path: ${task.dataset_path}
+  seed: 42
+  val_ratio: 0.00
+  max_train_episodes: null
+  horizon: ${horizon}
+  n_obs_steps: ${dataset_obs_steps}

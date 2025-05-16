@@ -1,0 +1,51 @@
+name: level2_openclose
+
+task_type: "open"
+controller_type: "openclose"
+
+mode: "infer"
+
+usd_path: "assets/chemistry_lab/table2.usd"
+obj_path: "/World/sektion_cabinet_instanceable"  
+sub_obj_path: "/World/sektion_cabinet_instanceable/drawer_handle_bottom"  
+
+show_video: True
+save_video: True
+max_episodes: 50
+
+policy_model_path: "outputs/train/18.41.25_train_act_image_open_close_data/checkpoints/epoch=0150-train_loss=0.005.ckpt"
+policy_config_path: "outputs/train/18.41.25_train_act_image_open_close_data/.hydra/config.yaml"
+normalizer_path: "outputs/train/18.41.25_train_act_image_open_close_data/checkpoints/normalize.ckpt"
+cameras_names: ["camera_1", "camera_2"]
+
+cameras:
+  - prim_path: "/World/Franka/panda_hand/Camera1"
+    name: "camera_1"
+    translation: [-0.15, 0, -0.05]
+    resolution: [256, 256]
+    focal_length: 1.2
+    orientation: [0.22437, 0.67057, -0.67057, -0.22437]
+    image_type: "rgb"
+
+  - prim_path: "/World/Camera2"
+    name: "camera_2"
+    translation: [-1.2, -0.1, 3.6]
+    resolution: [256, 256]
+    focal_length: 4
+    orientation: [0.69035, 0.15304, -0.15304, -0.69035]
+    image_type: "rgb"
+
+robot:
+  type: "franka"
+  position: [-0.4, -0, 0.71]
+
+collector:
+  type: "default"
+  compression: null
+
+hydra:
+  run:
+    dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}
+
+multi_run:
+  run_dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}

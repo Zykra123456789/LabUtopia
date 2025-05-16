@@ -1,0 +1,72 @@
+name: level1_press
+
+task_type: "press"
+controller_type: "press"
+
+usd_path: "assets/chemistry_lab/general_lab/Scene1.usd"
+instrument_path: "/World/instrument"
+target_button_path: "/World/target_button"
+sub_obj_path: "/World/target_button/button"
+distractor_button1_path: "/World/distractor_button_1"
+distractor_button2_path: "/World/distractor_button_2"
+table_path: "/World/Table1/Desk1/surface/Cube"
+
+per_episode: 100 
+material_types: 1
+button_types: 1
+
+button_material_paths:
+ - /World/Looks/OmniPBR_Button_Red
+ - /World/Looks/OmniPBR_Button_Blue
+ - /World/Looks/OmniPBR_Button_DeepGray
+ - /World/Looks/OmniPBR_Button_Yellow
+ - /World/Looks/OmniPBR_Button_Gray
+ - /World/Looks/OmniPBR_Button_Green
+
+table_material_paths:
+ - /World/Looks/Material_1_plastic_dark_blue
+ - /World/Looks/Material_2_wood
+ - /World/Looks/Material_3_plastic_dark_green
+ - /World/Looks/Material_4_plastic_light_white
+ - /World/Looks/Material_5_black
+ - /World/Looks/Material_6_plastic_light_blue
+ - /World/Looks/Material_7_stainless
+        
+show_video: True
+save_video: True
+max_episodes: 100
+
+
+cameras_names: ["camera_1", "camera_2"]
+
+cameras:
+  - prim_path: "/World/Camera1"
+    name: "camera_1"
+    translation: [-0.28673, -3.51678, 1.46281]
+    resolution: [256, 256]
+    focal_length: 6
+    orientation: [0.72889, 0.68336, -0.02857, -0.03028]
+    image_type: "rgb" 
+
+  - prim_path: "/World/Camera2"
+    name: "camera_2"
+    translation: [0.1, -0.08, 3.01252]
+    resolution: [256, 256]
+    focal_length: 5
+    orientation: [0.70711, 0, 0, -0.70711]
+    image_type: "rgb"
+
+robot:
+  type: "franka"
+  position: [-0.4, -0, 0.71]
+
+collector:
+  type: "default"
+  compression: null  
+
+hydra:
+  run:
+    dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}
+
+multi_run:
+  run_dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}

@@ -1,0 +1,86 @@
+name: Level3_TransportBeaker
+
+task_type: "pickplace"
+controller_type: "pickplace"
+
+usd_path: "assets/chemistry_lab/lab1/Scene1.usd"
+target_path: "/World/beaker1"
+
+mode: "collect"
+
+task:
+  max_steps: 1500
+  obj_paths:
+    - path: "/World/beaker_2"
+      position_range:
+        x: [0.19, 0.34]
+        y: [0.10, 0.25]
+        z: [0.77, 0.775]
+
+    - path: "/World/target_plat"
+      position_range:
+        x: [0.19, 0.34]
+        y: [-0.25, -0.10]
+        z: [0.713, 0.713]
+
+table_path: "/World/Table1/Desk1/surface/Cube"
+target_sub_path: "/World/target_plat/plat"
+
+per_episode: 20
+material_types: 5
+button_types: 3
+
+button_material_paths:
+ - /World/Looks/OmniPBR_Button_Red
+ - /World/Looks/OmniPBR_Button_Blue
+ - /World/Looks/OmniPBR_Button_Green
+ - /World/Looks/OmniPBR_Button_Yellow
+ - /World/Looks/OmniPBR_Button_Gray
+ - /World/Looks/OmniPBR_Button_DeepGray
+
+table_material_paths:
+ - /World/Looks/Material_1_plastic_dark_blue
+ - /World/Looks/Material_2_wood
+ - /World/Looks/Material_3_plastic_dark_green
+ - /World/Looks/Material_4_plastic_light_white
+ - /World/Looks/Material_5_black
+ - /World/Looks/Material_6_plastic_light_blue
+ - /World/Looks/Material_7_stainless
+        
+show_video: True
+save_video: True
+max_episodes: 100
+
+cameras_names: ["camera_1", "camera_2"]
+
+cameras:
+  - prim_path: "/World/Camera1"
+    name: "camera_1"
+    translation: [2, 0, 2]
+    resolution: [256, 256]
+    focal_length: 5
+    orientation: [0.61237, 0.35355, 0.35355, 0.61237]
+    image_type: "rgb" 
+
+  - prim_path: "/World/Camera2"
+    name: "camera_2"
+    translation: [0.1, 0, 2.5]
+    resolution: [256, 256]
+    focal_length: 5
+    orientation: [0.70711, 0, 0, -0.70711]
+    image_type: "rgb"
+
+robot:
+  type: "franka"
+  position: [-0.4, -0, 0.71]
+
+collector:
+  type: "default"
+  compression: null 
+
+hydra:
+  run:
+    dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}
+
+multi_run:
+  run_dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}

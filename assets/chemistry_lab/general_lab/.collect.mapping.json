@@ -1,0 +1,1325 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/IL_my/assert/chemistry_lab/SubUSDs/textures/8888030.jpg",
+            "source_hash": "d38ebbd33fc73648869c234db5f88577750fda7c",
+            "target_url": "./IL_my/assert/chemistry_lab/SubUSDs/textures/8888030.jpg",
+            "target_hash": "32bd63615ea001523dbadbc04a10916deec69e1e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/pick_task/SubUSDs/textures/Steel_Stainless_BaseColor.png",
+            "source_hash": "fdbccf2279fec66a372ceb760dab025092a279a0",
+            "target_url": "./pick_task/SubUSDs/textures/Steel_Stainless_BaseColor.png",
+            "target_hash": "043ae1e79f7959928ec732f918bb59874670e166"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/pick_task/SubUSDs/textures/lounge_booth_table_texture0.jpg",
+            "source_hash": "26d116688572a60e3df302562c890ac1dc555070",
+            "target_url": "./pick_task/SubUSDs/textures/lounge_booth_table_texture0.jpg",
+            "target_hash": "31d9c080355c98cab41d2dbcd05e208bed187062"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/pick_task/SubUSDs/textures/lounge_booth_table_texture1.jpg",
+            "source_hash": "e07629530ffd98751223a14b7caae7d4c8ea31fb",
+            "target_url": "./pick_task/SubUSDs/textures/lounge_booth_table_texture1.jpg",
+            "target_hash": "ac5cd42ecced36433892a6723fadc6cee4b25451"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/pick_task/SubUSDs/textures/lounge_booth_table_texture2.png",
+            "source_hash": "02ddb3bee507b27fcf46ac93d6399060702a2033",
+            "target_url": "./pick_task/SubUSDs/textures/lounge_booth_table_texture2.png",
+            "target_hash": "3d09d81492e4352217ee78fd78afd8288f6736f1"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "source_hash": "f28cda25e07b4cb18b70e55f8b6ff499e00771a8",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "target_hash": "4be8dea94f08b18d4640f8c932f421fee3c3257e"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "source_hash": "986ccf90a1d57c68886ae77f1e6be2ddbbfbbdbd",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "target_hash": "39e718260242b53f7a6a5f8ee4fa5480f4d42c9a"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "source_hash": "f28cda25e07b4cb18b70e55f8b6ff499e00771a8",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "target_hash": "69e196e355d8a1f442ae4bd860887ed7f26487dc"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_22_8132PreviewSurface/3d66Model-1682482-files-5.JPG",
+            "source_hash": "7ee7a3bc68e2a4b12fb86442552618d91a70f191",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_22_8132PreviewSurface/3d66Model-1682482-files-5.JPG",
+            "target_hash": "05196906812b0f074ea68ef50dad91653e13370c"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "source_hash": "f28cda25e07b4cb18b70e55f8b6ff499e00771a8",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866PreviewSurface/3d66Model-1682482-files-4.jpg",
+            "target_hash": "ed41d4fee1607785385c576a3bf3c299b18ea43b"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_8_624PreviewSurface/3d66Model-1682482-files-6.jpg",
+            "source_hash": "5c1fd66031a2560afaa448ddee4137ca3fb69442",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_8_624PreviewSurface/3d66Model-1682482-files-6.jpg",
+            "target_hash": "2a92df6266bb155af82dad2733870b6b4a533ddd"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a_________21PreviewSurface/3d66Model-1682482-files-7.jpg",
+            "source_hash": "e1d360757d74d7fc98573a2823a98cea72cbc7f7",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a_________21PreviewSurface/3d66Model-1682482-files-7.jpg",
+            "target_hash": "7c9380dba0cc7a6dfde8dd0db93f95a60deb0232"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/mucaiPreviewSurface/3d66Model-1682482-files-1.JPG",
+            "source_hash": "874b8ada07aaec9bd8665c8e70b981c795932559",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/mucaiPreviewSurface/3d66Model-1682482-files-1.JPG",
+            "target_hash": "186918d74c664a66079066b8c47f1880051ae7eb"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/Omniverse/pkg/isaac-sim-4.2.0/kit/mdl/core/mdl/gltf/pbr.mdl",
+            "source_hash": "399ca5abc396c2b613c6fcb6e39da9adb2c2558a",
+            "target_url": "./Omniverse/pkg/isaac-sim-4.2.0/kit/mdl/core/mdl/gltf/pbr.mdl",
+            "target_hash": "de64cabfd051add273a6516a99e837a7590c19c1"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/SubUSDs/materials/Plastic.mdl",
+            "source_hash": "1c046f3fec8da1420185896789fb5dd206d07e62",
+            "target_url": "./SubUSDs/materials/Plastic.mdl",
+            "target_hash": "a2c38f7f8d28c8f31e4c32fe47bc153dedf431c7"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/SubUSDs/materials/Plastic_Thick_Translucent.mdl",
+            "source_hash": "026e1cdbd3f10e67183b6b185306fb5f8bd0ac7e",
+            "target_url": "./SubUSDs/materials/Plastic_Thick_Translucent.mdl",
+            "target_hash": "731130287a7dff2f1a59f48aa665c10ed5321479"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/SubUSDs/materials/Steel_Stainless.mdl",
+            "source_hash": "a0e07ff50154029c2ea61e2d3baf7aafe80a9d4c",
+            "target_url": "./SubUSDs/materials/Steel_Stainless.mdl",
+            "target_hash": "87eed0e255854a19a80337f965e6b1ebe5627e47"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_030.mdl",
+            "source_hash": "0f8a82e4b9a48898acc38d082e0c24641d42e7a6",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_030.mdl",
+            "target_hash": "71ab1198b087b22714a7059c53cea87bce2952ee"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0302.mdl",
+            "source_hash": "95a619d1a00437618370c2c3506cb087ae1d93bf",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0302.mdl",
+            "target_hash": "69eabdc951cd10ac8dcea2a741a3bf0b9cb7656b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0303.mdl",
+            "source_hash": "acefce8293bda18d44adb491f60d0399c456833f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0303.mdl",
+            "target_hash": "aa45d6207ec9a9e9ce1ff694f62f3a1d3d23caec"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0304.mdl",
+            "source_hash": "38c6cb0dbedf8ff89a7168d5717418e5bba892ed",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0304.mdl",
+            "target_hash": "6591e4b7d91a4756960d7e5067eca617463b88e8"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0305.mdl",
+            "source_hash": "1f4ef6fdac523f16149c46f52a5cfd082c111063",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0305.mdl",
+            "target_hash": "ec36f54dddbf9e50e401632d7812140e960a6db2"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0306.mdl",
+            "source_hash": "46af156227525393459a7f47037ea1e571f4983f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Archmodels70_0306.mdl",
+            "target_hash": "76e8ad49006e492b119bc45bd6d1dd35f0139e24"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Black_Plastic_Ma.mdl",
+            "source_hash": "cdfb09e8814944802e2ea3cc557f6cfcf6afbd5a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Black_Plastic_Ma.mdl",
+            "target_hash": "4ce1975d125b28f08962c18eca8116e287664d63"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/H1.mdl",
+            "source_hash": "f6b805530d029ee3c3571641b1c7708cd8cb4ab7",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/H1.mdl",
+            "target_hash": "4365edcc2f89fc0b34f3ca776d7b21e10688be2f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/H2.mdl",
+            "source_hash": "853c24bef9bc3e6d6e02813df2800f9752dcbc80",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/H2.mdl",
+            "target_hash": "5b480a31d1256f5359ce2eae0135ce70e0faee7f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_105_7150.mdl",
+            "source_hash": "3fae8e0259dc7686d6b562ef3ba5b934b572741f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_105_7150.mdl",
+            "target_hash": "a80c08b5d579e8ad864a82117842714bf25f5e80"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_106_7666.mdl",
+            "source_hash": "7716a4efea2a2580c3dad7d364744ab10b85a244",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_106_7666.mdl",
+            "target_hash": "80ac42a9762c02867d1bf1563cbfc59132ce561d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_107_742.mdl",
+            "source_hash": "70895d8afbd739cef07298e1a82d292ead2036e8",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_107_742.mdl",
+            "target_hash": "0545838a7b540cae71f0caabaa1c832c843b027c"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_110_7380.mdl",
+            "source_hash": "0ca94b84a52db85c603e9e3783c7a8ce16e88cba",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_110_7380.mdl",
+            "target_hash": "998e919e1d1e7be574dd1ecb47e6bc111e389f88"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_111_3348.mdl",
+            "source_hash": "84844713b8c687723bb7a2dcf6928f19521160d6",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_111_3348.mdl",
+            "target_hash": "ea83533008e48d2660c4b7374d01bbc5c0722075"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_113_174.mdl",
+            "source_hash": "08bd178f73eb5f44ac10098882b9a234c9be1dbd",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_113_174.mdl",
+            "target_hash": "f4fc4ffa38e22e54b662c30fc161bfd84923067f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_114_2958.mdl",
+            "source_hash": "b7620e033295becaecedc37021c149d3157b76af",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_114_2958.mdl",
+            "target_hash": "2b69f02072ad95e37551883ac5f88811b3f20661"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_115_8472.mdl",
+            "source_hash": "df0efb3768c148780f9de7bcda1665fa9e40820e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_115_8472.mdl",
+            "target_hash": "750f6a36d61429b128e3de13c39c47d396a7e485"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_117_6849.mdl",
+            "source_hash": "f1350e4f3301d92840a7bb09449c77baecd4ccca",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_117_6849.mdl",
+            "target_hash": "3f2e387c0e0739e480e00efea58f52703cb8d43b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_118_3677.mdl",
+            "source_hash": "64192aec5983a7c14dd9e2faa8c53126fd461a7b",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_118_3677.mdl",
+            "target_hash": "6b9cda6bd083091debfc0542da49dae42a6e3231"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_119_7700.mdl",
+            "source_hash": "9d403ec0c486b321ffc1c14e063f932a28d47ce1",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_119_7700.mdl",
+            "target_hash": "6762d187e21cadb460521d9ce647a44c9a3ab0bd"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_120_1077.mdl",
+            "source_hash": "88c828ef20454d46cc548808946f6b61c9363e5f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_120_1077.mdl",
+            "target_hash": "5d54f61da0984c562c95202192160fbcbb1033c5"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_18_947.mdl",
+            "source_hash": "8facef0d8d7b7987cafd46e2f91202a595d3fdee",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_18_947.mdl",
+            "target_hash": "2b89d70b3098d7e581ffcbecce7e4c0ab38c9f9e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_24_125.mdl",
+            "source_hash": "bfb06b36fed11457d70509c5e8cf8371b5adc19e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_24_125.mdl",
+            "target_hash": "83509a49af2d2ba4c49ad4ac0b9efc7554803df0"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_25_1948.mdl",
+            "source_hash": "fdeba9f9a358cd0ea6fb997cd58ae5aba69e60e6",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_25_1948.mdl",
+            "target_hash": "9e7a99aea62785fe31915b1d7a4e59d2614ac35b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_26_9348.mdl",
+            "source_hash": "0f82105b87a9851bf001cf2db84bd614d2318874",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_26_9348.mdl",
+            "target_hash": "da26986b47bf74ee11364ef755c251d34bef3264"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_33_8712.mdl",
+            "source_hash": "a8806653fb3118de61533d26dfe145e022464afc",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_33_8712.mdl",
+            "target_hash": "013e0e25b72b05cf5074ab981770175680840afb"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_47_5788.mdl",
+            "source_hash": "e2e99b0d9b4f551cef90c3be5121f0c0306edeb4",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_47_5788.mdl",
+            "target_hash": "557d338f9232a64367447a8be5d5a2cbf50972d7"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_53_3686.mdl",
+            "source_hash": "fdf3298c3bde72785ea7808cfdc3bf7fe99a2603",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_53_3686.mdl",
+            "target_hash": "51b85e71c48b00640a61cf3a18661d3a5d5346fd"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_57_9762.mdl",
+            "source_hash": "77c5f2cfa97d2cbe0fc16c8d3963681c55ac4c8c",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_57_9762.mdl",
+            "target_hash": "5c1d9ff6fc10f35acb1406b004b66a269a0ae45d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_72_4539.mdl",
+            "source_hash": "44d73eae8dd29ca8cb4ce831942d614a48163d49",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_72_4539.mdl",
+            "target_hash": "d6ca94f1b40db0aba5ddf7d10fcd2b02f8e08123"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_73_8817.mdl",
+            "source_hash": "014f4d1742215a7517e42afbae0c91fc92ac8f2f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_73_8817.mdl",
+            "target_hash": "3a90beba18b3ced734e01698f0ce03355f4ddd8a"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_74_18.mdl",
+            "source_hash": "5a4e0332a005c2230848bf78d6ad5fec8530a187",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_74_18.mdl",
+            "target_hash": "87d9774d6b11cf65a92d595e4e7fffec27a4baab"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_75_3800.mdl",
+            "source_hash": "84c4d89fe0c90df26a6c9f55f6ea4f988075c528",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_75_3800.mdl",
+            "target_hash": "9659a55304579679ac553daab2595cef006bbafb"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_76_520.mdl",
+            "source_hash": "d05a02e993697205cf411965159bbe69c620182b",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_76_520.mdl",
+            "target_hash": "ab6f4fa451b004beaf360c578edf8e6d30ea4ff0"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_77_2965.mdl",
+            "source_hash": "5f823394a74607675564d00fc7c5b9df96ad6cb0",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_77_2965.mdl",
+            "target_hash": "c7a0703f555bfdec600abb7b9e03c3d3b9d926e4"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_78_5366.mdl",
+            "source_hash": "d5fe70f4688737d7ba13d3dd9976f38ccf5f96c1",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_78_5366.mdl",
+            "target_hash": "55c7778117ef3f39f8bcb04a62cea63317b5aff3"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_79_1447.mdl",
+            "source_hash": "fcfa69b4856b906fea45f4dff0dde088fb59ac8d",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_79_1447.mdl",
+            "target_hash": "b46e25ecef501d7570c68aa7d3059ce66180ba9e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_80_5821.mdl",
+            "source_hash": "5f21c8b148211e085d6f436ee9db9ccce0dd862d",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_80_5821.mdl",
+            "target_hash": "c071f0628cca10ff11602dba0e0b8cdfab5afd40"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_81_2791.mdl",
+            "source_hash": "27bb3a67f8587982b26d48af62b6a2e671404c4e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_81_2791.mdl",
+            "target_hash": "cb25f705f7c0e375412aca5612c9799d5dddd594"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_83_2042.mdl",
+            "source_hash": "73ce35aebdadb941be3de72a1063c91ea6e3d0c0",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_83_2042.mdl",
+            "target_hash": "23ee2c67232a546fb0b8ed80df5c7f8b9ef2d82f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_85_149.mdl",
+            "source_hash": "c5900701e680c8eea8688337591da50e2d33e1dd",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_85_149.mdl",
+            "target_hash": "0a7f7caf3b4531a1999bf055147133033d052a46"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_493117_1_149.mdl",
+            "source_hash": "eb13eaa38dfe139e9c0e405f7a036ee72596e839",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_493117_1_149.mdl",
+            "target_hash": "d26b7bfef54344aac772ee6ff20c08a9c507c09e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_44_5656.mdl",
+            "source_hash": "941cb0d4572e7d03cfd2f9d356ebd8ea3449479e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_44_5656.mdl",
+            "target_hash": "639108597b7663742a41b65f52c0f0cddd66789b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_46_4195.mdl",
+            "source_hash": "4d00bfa6ec638f19503924fe55ced8aaf5243640",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_46_4195.mdl",
+            "target_hash": "d12d4fea24a6fcc052467e88550ac0581d75ab09"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_47_51.mdl",
+            "source_hash": "b835f29fd590860a2ff793b92b20c16d92494504",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_47_51.mdl",
+            "target_hash": "f2651d969f6cb6aa13f72f5a7a52b57b5878295f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_48_4640.mdl",
+            "source_hash": "2a86fdd975006be1e4dcaf5eddee9d64d4df7d76",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_48_4640.mdl",
+            "target_hash": "df677959252f9aa1a88e03c3e3c754a6416bbcdc"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_49_2608.mdl",
+            "source_hash": "2a211f32a1df47fdc5fd3cb3bc1302644e70bd77",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_49_2608.mdl",
+            "target_hash": "413b1c4f5637a41a4c52d175ff76aa18e24aee74"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_50_7849.mdl",
+            "source_hash": "6d997ae53fdb728dab13bc6b96af38abb5156c6b",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_50_7849.mdl",
+            "target_hash": "f3311981347a25850c88ee5f53b0a3ba891bc61e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_51_7860.mdl",
+            "source_hash": "8d839f55d0c3b177b56578c56c98cf6c18046d88",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_51_7860.mdl",
+            "target_hash": "08ccf1966925708744e2a5b5b01fcd461e89c2db"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_52_9166.mdl",
+            "source_hash": "fa630293936f7dd4dca9ea9cfae5d65fb03717bc",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_52_9166.mdl",
+            "target_hash": "2473dfa7c1f182f2fb5deb1be21f64ad2f0644f9"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_53_2628.mdl",
+            "source_hash": "003914f5c478fe14e1e1de3b1596341630ab98a7",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_53_2628.mdl",
+            "target_hash": "f35276b0b06bcdc4d64e20d88f8ae7b9e5367a02"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_54_2007.mdl",
+            "source_hash": "2a42856f2720bf83951a4b2c67990602689a5f1e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_54_2007.mdl",
+            "target_hash": "e9d961105c447dda1e537a6a493a3226033552a1"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_57_4793.mdl",
+            "source_hash": "0f045f42e67954047a53af11531275c57d3b5176",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_57_4793.mdl",
+            "target_hash": "a80306bbe561f1c7db1e4ab73a083a188d0e8929"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_58_7964.mdl",
+            "source_hash": "a1877064ebb86608d8f5c6dbdd2687395b7ef26a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_58_7964.mdl",
+            "target_hash": "1e248f771c28077371edde111265a51d8e804aad"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_60_690.mdl",
+            "source_hash": "92cc6346a1eb8d3cfb4541c641235626dd7e0db7",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_60_690.mdl",
+            "target_hash": "f67dc8e5f9fb4c126aa240cfa210e0a303277f34"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_61_2105.mdl",
+            "source_hash": "9489df5480693a6b02c62771920b3ad5e0c57551",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_61_2105.mdl",
+            "target_hash": "29dd1e9c2b73602705aaa526aa3ec25955965f0b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_62_8843.mdl",
+            "source_hash": "be65c46258a2f5b11562218a89ad3fa6802a1a7d",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_62_8843.mdl",
+            "target_hash": "0d880e64fcf68009f6c0fb452405616b442d0479"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_63_4637.mdl",
+            "source_hash": "6d369cc0f18c1331d122900b249ee4649c7d5435",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_63_4637.mdl",
+            "target_hash": "378d77d3788775dcc21fd4037ad17529d280644f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_66_3251.mdl",
+            "source_hash": "7da65025eee41fb8709757ce28691d2d805fd5df",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_66_3251.mdl",
+            "target_hash": "8881026d1dd721734c37b68d51eed020430b2b4c"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_67_3652.mdl",
+            "source_hash": "8b87da41bc3a7533597b0c494b738c313838cdbf",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_67_3652.mdl",
+            "target_hash": "af3663122e3e475951885e84860337607733ff76"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_68_3781.mdl",
+            "source_hash": "6ec42f143b5b8db7dde2f743418a99b7a2043c9e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_68_3781.mdl",
+            "target_hash": "50bcbe0773a0b3b2a4c618337751633a0af7ddbc"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_71_8215.mdl",
+            "source_hash": "c0af26549f99f10e07666e74f67c60ffc6e0d891",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_71_8215.mdl",
+            "target_hash": "2dfadd5b4b1420b7c261e385be39cd4ab63c0282"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_83_6594.mdl",
+            "source_hash": "3022c41fbdccc48eaf6171cd68137118cbbafb93",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_83_6594.mdl",
+            "target_hash": "42e544fb08f09f5cf74605d62c190285a4b25e32"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_84_1599.mdl",
+            "source_hash": "ac17e7176703408a6705d3339cf663b845489275",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_662606_84_1599.mdl",
+            "target_hash": "95d00c96621ab6f520a4f09449fc8396a3e9715c"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_719959_4_1123.mdl",
+            "source_hash": "976c5803729cb47391bd491f465df15be5ee7fab",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_719959_4_1123.mdl",
+            "target_hash": "26c1c712fe80e099415dd993fd39c8b36650dc73"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_18_6766.mdl",
+            "source_hash": "19b2b12cbd954a9b04546010b964e0ff0241348a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_18_6766.mdl",
+            "target_hash": "8a5e4f3a5b177d3693cc7d56d195f112367774a4"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_19_3824.mdl",
+            "source_hash": "2eaaca3a159fc7901fb73c7e357b54bb2e1ada7e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_19_3824.mdl",
+            "target_hash": "1f1b15dcbd37d5c2958c1744f9d6cfec044b30f9"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_20_4290.mdl",
+            "source_hash": "90d198db407e6d45c1e20cfb6bf426461ec8f8b6",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_20_4290.mdl",
+            "target_hash": "8dcfe600e3f94302d25f89cf98c6782f289395cd"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_22_531.mdl",
+            "source_hash": "b2e5dab245cee43cd1fd337cbf5ae1fbf6382a7f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_22_531.mdl",
+            "target_hash": "1011d1937c96b7f2a7d83edaca45b4952d6675ca"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_23_1507.mdl",
+            "source_hash": "8f4148425c8ae34b78da9be024a1ad47a7746b64",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_23_1507.mdl",
+            "target_hash": "24bcdec6fb2e937d1c4b0169457819250aa17a34"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_24_4373.mdl",
+            "source_hash": "db77364e86d1785d45a260f0df1d4291055dbafe",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_24_4373.mdl",
+            "target_hash": "5e4b55c488941fcf7ab6bf13c0019812c22682fa"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_25_3763.mdl",
+            "source_hash": "d1367cfdb771ed153aff2ee625109b6129fe9f2a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_25_3763.mdl",
+            "target_hash": "15cbee89533bc26948a6d25508ed8af8a19354b6"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_26_4491.mdl",
+            "source_hash": "65382920585cd0c7d6d5c93265ac33a95810addf",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_26_4491.mdl",
+            "target_hash": "00b713ece200ee4f9527f7e903fb80763276d6d1"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_27_9056.mdl",
+            "source_hash": "2c4c107435edc128ec11a0186c24f0698cebebec",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_27_9056.mdl",
+            "target_hash": "5f6e1c776df92d0ba70eed17560c5427c2229241"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_28_696.mdl",
+            "source_hash": "9f0c3930f6d0e08423e201340d6a454de4391786",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_28_696.mdl",
+            "target_hash": "baf5fee57e81ac3210ecf2a93a0c818428b9262e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_31_8548.mdl",
+            "source_hash": "d49234927ea22fcf38e45554a434b37b5e29c957",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_31_8548.mdl",
+            "target_hash": "307ce4e8168de2b2c6987d4a2f97ec6cefad6039"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__38.mdl",
+            "source_hash": "9de20acd4e0d8e5e4a8e2754045b7766b90a5e70",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__38.mdl",
+            "target_hash": "6575a62fa47dc81e0abf90fd311f8d8f4cf30be1"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__40.mdl",
+            "source_hash": "2ad9305bef651d26c6039414d287eb418b10e54a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__40.mdl",
+            "target_hash": "2d4afc16cb34e68d2457993b0afa512043025649"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__55.mdl",
+            "source_hash": "efa5c6a3271430c818dbba581ab437389bd95fb5",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__55.mdl",
+            "target_hash": "78507f88b188228f28e5dec415aac98ddd464953"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__63.mdl",
+            "source_hash": "af1919c715b95117c7304f4d74776e16785682bd",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__63.mdl",
+            "target_hash": "6534e680d0de3240b22bb8e638464abe4bc20ac9"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__70.mdl",
+            "source_hash": "517c48759711e218298e8a52090fb84834bd5208",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__70.mdl",
+            "target_hash": "74b7b963338cf8053130b28ac5569ab07013803f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_12.mdl",
+            "source_hash": "3d1712a0d1684abf744ad1a68cc1f07604ead802",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_12.mdl",
+            "target_hash": "f269e173e26d61082416578c263deea5fabc86f2"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_121.mdl",
+            "source_hash": "087623c0ed6800a40157996824fef48e0a5a0342",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_121.mdl",
+            "target_hash": "a70a40e1d53c79546f4009f2252a44405186bebb"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_6.mdl",
+            "source_hash": "c37ebe3caaeb0b80b051e8969bad9202b1cb979c",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_6.mdl",
+            "target_hash": "c2ac7a23f67e9593ceb460f49ab21abce919a04b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default.mdl",
+            "source_hash": "cd95d802c4a70f63cb004efef9f6b68a91b99852",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default.mdl",
+            "target_hash": "92db54ded53d357ef7e3bc8c9b6a499cc8a8e87d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default1.mdl",
+            "source_hash": "536581601531af9bef4ae7263dd7904645cba1ac",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default1.mdl",
+            "target_hash": "7003bf0392788861efb62bd460e8cc06f03d4ceb"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default2.mdl",
+            "source_hash": "02ac3c19709492ce203fe05c3bd857ef787de8f0",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default2.mdl",
+            "target_hash": "2385b369e2bc259bd68d0fc297be9d1e2fba6bda"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default3.mdl",
+            "source_hash": "51235073ad5e345696b6668b3582f4fc5e19b7ac",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default3.mdl",
+            "target_hash": "bf1b31d7627e8e8fa2c5fb90d47ba1b7bfbc9b1b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a0k2___Default.mdl",
+            "source_hash": "993b638360f3ba704e71cab36271c0f724e453f4",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a0k2___Default.mdl",
+            "target_hash": "101036ac179a629074df04a2e9eef013c1d78af7"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a10____________.mdl",
+            "source_hash": "2406153e4f85d2b094e97831ba9d21ced4de7bee",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a10____________.mdl",
+            "target_hash": "226cf6bc276cab3755aa5cd2108a875c9bb5ea90"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a13___Default.mdl",
+            "source_hash": "d43af613575c58d96cf0f2b966ac85db0ec7f4b1",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a13___Default.mdl",
+            "target_hash": "b44c618b37d6501d4f61b1623537e22502cb5e2b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a16___Default.mdl",
+            "source_hash": "6a9ba10c5b8990f34a3d7e85e7277d9f6ff8cc6e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a16___Default.mdl",
+            "target_hash": "b64a130dc167f06e7d02f26d59d556fd6c9ed22a"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a__111.mdl",
+            "source_hash": "a023441527d4bb0c4a5caec77b16a666ebe499e7",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a__111.mdl",
+            "target_hash": "f6f12a02608323a9e13df76ecbd686b896052b0d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____.mdl",
+            "source_hash": "194e81aade94a364e456c8ecc9eefbdfda3a078d",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____.mdl",
+            "target_hash": "09480598e0f87b2f4953025471db5c46fb20638b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____1.mdl",
+            "source_hash": "f6b57bb461d3a9c0deea40dd8b60cda665b702d6",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____1.mdl",
+            "target_hash": "ca5041ed9f3bf87fa075377eccc1da59ab0910aa"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____2.mdl",
+            "source_hash": "da48b9065046b78dd87902ab154cea060a5bdfb7",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____2.mdl",
+            "target_hash": "b5afa6e53097d3b7572df6bd089c284a5a2e9a3f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____5.mdl",
+            "source_hash": "0a12639f60a60e61dcc8721eaab18f92087bfa04",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____5.mdl",
+            "target_hash": "b091d078d447cbf881eb22cdf0f49476cdc6dc08"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____6.mdl",
+            "source_hash": "83f82675a744e0561bc58dc307ce760b0437ff6d",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____6.mdl",
+            "target_hash": "cc0bf10c00f3c37a061ff81fd69748cc3e43979d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____7.mdl",
+            "source_hash": "ae2160b7f6ee7ce6c33090eeed64b1108d3ab45f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____7.mdl",
+            "target_hash": "5f6cb2a7bd055355dd2bd034178afa8cf23927b2"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a______.mdl",
+            "source_hash": "27965676a20119af135eafac822e78aa369610e5",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a______.mdl",
+            "target_hash": "23a077f866768552f41e8614353a0d86f8b37be3"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a________1.mdl",
+            "source_hash": "e820a9620defcf85c4a35d0e2bf7dfd893da486a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a________1.mdl",
+            "target_hash": "f22699c3ece44dedb70645b6d8bac7e45b218790"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a________2.mdl",
+            "source_hash": "4753893ea483275a10c2dee32cce6b7bc5be3546",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a________2.mdl",
+            "target_hash": "115aafaaf22de0c4df77748b2d8598d385024d12"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a___________.mdl",
+            "source_hash": "7c1e8bb9cbc76db8df6269fe9325a9dc8bf1786e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a___________.mdl",
+            "target_hash": "e2f84c1b62419182626c5a8e07e61d70ee586acf"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a____________________.mdl",
+            "source_hash": "06ee4c6180b7806884a36ec221be9eaf5c68ac56",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a____________________.mdl",
+            "target_hash": "040f593615891925e2aa7db9b2d60a928765f571"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose.mdl",
+            "source_hash": "145b97dffb8f8ca7d5b9f8ce360dd53f620225e6",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose.mdl",
+            "target_hash": "42725a76435b201eea19de6a46d950fc215aec65"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose1.mdl",
+            "source_hash": "d1a9c68311f6426347bfb1ea4e5159360256faa9",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose1.mdl",
+            "target_hash": "24d950ded4d18b7bda630c0e8d171cf192150154"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2.mdl",
+            "source_hash": "1c0cb91d37d15dc9ac583582a7df3a59783f29d8",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2.mdl",
+            "target_hash": "4d938a8c3a04c36c3766a6d2fb6c7a5eaaaa544d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3.mdl",
+            "source_hash": "2edc12615b9a96984a592d78cba65b258b76697a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3.mdl",
+            "target_hash": "7da805c56c8a049d6ebd2ba3eb49ebe4a9814df3"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose4.mdl",
+            "source_hash": "efc0da46a0b4477caf7d94192842688ebeb460eb",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose4.mdl",
+            "target_hash": "568d11688d27415485d70622c849abdbfaaf9500"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/timer.mdl",
+            "source_hash": "29c99c369dd28d82b6394b76f6a94e9b8765648e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/timer.mdl",
+            "target_hash": "bfdbad41a9245e1d1174a7ecb4d0e6def7c08288"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/vray_Material__38.mdl",
+            "source_hash": "016897fc2e3cde69d714b79003351ce0f8a27602",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/vray_Material__38.mdl",
+            "target_hash": "f5cfef201e2220d52d604232918304ec804b54f9"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/zolty.mdl",
+            "source_hash": "9c5c5e643013b5de4524388825e7eeb3c87e798e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/zolty.mdl",
+            "target_hash": "949ed675608dd18a392de17b00f117f463209e2f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks.mdl",
+            "source_hash": "03c358983c3fa9d80574434e6fb77ad32bf44889",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks.mdl",
+            "target_hash": "7ad5acd6015e1911756fb463b0c3fbac3785dab1"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_12_8685.mdl",
+            "source_hash": "77234c07f609f8c0d36a10f92d4b46266ffb99fc",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_12_8685.mdl",
+            "target_hash": "f5e5d9bc0abde98d7b9c32fcf9f6673291ebf698"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413.mdl",
+            "source_hash": "290a633675f3e8ee91210d652b0633fd85de74e8",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413.mdl",
+            "target_hash": "228cbfd30a264ac7027ae3c3ce1726afff837817"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_14_3661.mdl",
+            "source_hash": "16b9da5ac72dc185836909a33fb17ed4e0bc27f5",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_14_3661.mdl",
+            "target_hash": "e39693fa63efc95edbca3f9e0359864ee643e8e1"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017.mdl",
+            "source_hash": "f0737c4245639ddbf5db2541dc4f3cd42783e05f",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017.mdl",
+            "target_hash": "7d3606907dae98d4cd5c6db4e9b801126388405c"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_17_8532.mdl",
+            "source_hash": "b3a92d2a84ed70962cd0d155974aa01175503258",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_17_8532.mdl",
+            "target_hash": "9a0c4867615639d696491a3b2313ffd943ebf939"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934.mdl",
+            "source_hash": "db634a84ad07faf1ebef2081cbd077e07c9b03f3",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934.mdl",
+            "target_hash": "2564de2a652aee23b398093002f888d506536bb3"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_1_9859.mdl",
+            "source_hash": "a9919b2fef4788c57e04143999533382ed3e0b02",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_1_9859.mdl",
+            "target_hash": "7c90e1c44ab982ba3c6b1a0698811365adb71ce6"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_21_1812.mdl",
+            "source_hash": "cac69b041e991964fb4cfa2e707164abe26b709a",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_21_1812.mdl",
+            "target_hash": "0c3b198055de3a17ef81cab0774de8f17aeb1f9d"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_22_8132.mdl",
+            "source_hash": "a0a30e6395b500ef76c88d486bcfecc815521a6f",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_22_8132.mdl",
+            "target_hash": "f6214a69d1d749507e397ae5ab9e74f473767a68"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_24_6987.mdl",
+            "source_hash": "c2b097db26e84083719d4ed11227da7c98e415b3",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_24_6987.mdl",
+            "target_hash": "813d4f01bcf8dabd6b155ca42a984f178f611984"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_2_6025.mdl",
+            "source_hash": "5eba740d4801fd7af0bfb4c1e9a14322248ce12e",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_2_6025.mdl",
+            "target_hash": "6797320d976ec297ac6a512f4946bcedde97dbe3"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_3_7861.mdl",
+            "source_hash": "acb5f867db37920a5a75b33110ddb03e1ce9f928",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_3_7861.mdl",
+            "target_hash": "3dfec493395e6cfbf8db92129f67b97f8a97e123"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866.mdl",
+            "source_hash": "1891032df0fc6655ddfbc32248c4dc390acc6710",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866.mdl",
+            "target_hash": "880c4782fb989f82db4e9688d6e5ab640546c89f"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_5_2072.mdl",
+            "source_hash": "1ce2806807e6003f27d04b1143645a3795251e49",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_5_2072.mdl",
+            "target_hash": "d94ef538ae6ddb0d4e4f408ae1777caf7dcd43da"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_6_1927.mdl",
+            "source_hash": "a0d70ea69e22cc216f7f98f32047b78ed5cafe87",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_6_1927.mdl",
+            "target_hash": "d047aef8a9e9dfe57e073c55128b19869499aba2"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_8_624.mdl",
+            "source_hash": "651c2913d455b606addbbcf23fa8b70b6114ba88",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_8_624.mdl",
+            "target_hash": "bad2ec08e9e89bd94d27f1c0ec965462ce9be443"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_9_8122.mdl",
+            "source_hash": "ed0228389e7f6f7bc74ca631a3eab6024212809a",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_9_8122.mdl",
+            "target_hash": "9684d55f725b615b53b033b4958dea74c74b43a1"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_771963_28_6734.mdl",
+            "source_hash": "02f5ccdc4de55cff2ba71310af48662e6af5af3f",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_771963_28_6734.mdl",
+            "target_hash": "7e5c8336aedf22c17e67278dd3d557e1f4eb9345"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Plastic_white.mdl",
+            "source_hash": "18379f9bc94b8cdf94efe4a5e86f1e9b8004f9f8",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Plastic_white.mdl",
+            "target_hash": "93d535a04d06a7c2cb2b763d81dfc9dcb01dd46e"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a02________________.mdl",
+            "source_hash": "57dda248e652da25b39c4d4fb248ddb2257de254",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a02________________.mdl",
+            "target_hash": "c8d8f051b0b2e5b812dc5cceb1d16a816d936b90"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a_____.mdl",
+            "source_hash": "e431e0bbf5f84bbefe9335499e98aee63bb7eaf9",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a_____.mdl",
+            "target_hash": "d10eb84c7824f666339ef9c94fd935aad54a3df4"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a________2222.mdl",
+            "source_hash": "5cf7b9c98cbd52dc18f9275d7d79b4262722870b",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a________2222.mdl",
+            "target_hash": "adf9d7d12ec816f04e3fcc2b38e2cbb660a917d6"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a________22222222.mdl",
+            "source_hash": "15ea23dff44935c158a2a0ebc8bc1c8687f25b14",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a________22222222.mdl",
+            "target_hash": "d25ca2a3e5c8633b7fddb7389d415d36f9657360"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a_________21.mdl",
+            "source_hash": "0d44db643f676e8a2b1683ca0cdf718aaed3f96b",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a_________21.mdl",
+            "target_hash": "69e7e986af0c550012ac370b7d431eae352847c5"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a________________________.mdl",
+            "source_hash": "b625ac43f82c7807d7c1e495bebd904786466090",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a________________________.mdl",
+            "target_hash": "c7dd7d82e42333d104f09054ee8696f63a6d9b78"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/black.mdl",
+            "source_hash": "8d156d1f8eb834966232eb8e95c9cfeb05100cc1",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/black.mdl",
+            "target_hash": "1ada4fd90d67145f5c064be264fa04378cbe242c"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/glass.mdl",
+            "source_hash": "fd786dbce076ed618f2c26adb6a47793b58c59a0",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/glass.mdl",
+            "target_hash": "8a97f87611bd17da178bd0ef6631b478256b594e"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/mucai.mdl",
+            "source_hash": "37af9f3b0ee29d072a6f1787759a06e8451195cb",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/mucai.mdl",
+            "target_hash": "5569a0f55785a7b7bfc65c8a3d494cee4e531ba2"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/vray_13___Default.mdl",
+            "source_hash": "ab979605e24c24ab611bffdf3b9ec0ce020c7db7",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/vray_13___Default.mdl",
+            "target_hash": "0e29451fbba4d9d691b96420848f9999c4627ab1"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/vray_Material__27.mdl",
+            "source_hash": "1ca46d46fac6448bec23e4f1095763c37cb19a67",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/vray_Material__27.mdl",
+            "target_hash": "c971272dec25522f6b332f3dcf1b795011cf0625"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/SubUSDs/textures/Steel_Stainless_BaseColor.png",
+            "source_hash": "bb828e386d79b5809e932605f6e5786bc21e1973",
+            "target_url": "./SubUSDs/textures/Steel_Stainless_BaseColor.png",
+            "target_hash": "182fad6ec1e50b8831257254ff492cfbc5312f41"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/SubUSDs/textures/Steel_Stainless/Steel_Stainless_ORM.png",
+            "source_hash": "b194b546ee05d9c0c47e7e819af21236bf83a826",
+            "target_url": "./SubUSDs/textures/Steel_Stainless/Steel_Stainless_ORM.png",
+            "target_hash": "bab2f23dcddc3efcec2ef74ed7806c404d201d13"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/SubUSDs/textures/Steel_Stainless/Steel_Stainless_N.png",
+            "source_hash": "16dfbddb79f900b77aa81cbf37d24231d2dc0930",
+            "target_url": "./SubUSDs/textures/Steel_Stainless/Steel_Stainless_N.png",
+            "target_hash": "78ab47986c714aba26eae503a23a7253030bb6a4"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/ad_3dsmax_materials.mdl",
+            "source_hash": "bb8d3dfb09d5ee8568795583eb75989aed95744f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/ad_3dsmax_materials.mdl",
+            "target_hash": "e0f60835d19e3eacc0be34216570d8dea70cfa11"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default/3d66Model-1064441-files-19.jpg",
+            "source_hash": "13d01b3e4d725594f317b06a945488abb1e7eb5d",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a06___Default/3d66Model-1064441-files-19.jpg",
+            "target_hash": "ee2c04375aa3e77bff0cc6f16ebce96e15bd2d24"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_22_8132/3d66Model-1682482-files-5.JPG",
+            "source_hash": "74098fbd52335d7bb1b480d6b2a5921d438072a4",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_22_8132/3d66Model-1682482-files-5.JPG",
+            "target_hash": "4c7f70fa728772e25a09b30fd7918454da054df8"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/ad_3dsmax_maps.mdl",
+            "source_hash": "cde31413624422ed4692c24e2d1b76474fb285a9",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/ad_3dsmax_maps.mdl",
+            "target_hash": "4a31df2fdace2e4c88600741eb7a24d57aa281c8"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/templates/ad_3dsmax_materials.mdl",
+            "source_hash": "f0fa1523d6d4b51ebccebc1f0a7b54d4f8e6aa03",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/templates/ad_3dsmax_materials.mdl",
+            "target_hash": "e0f60835d19e3eacc0be34216570d8dea70cfa11"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/vray_materials.mdl",
+            "source_hash": "090b1a59787845296292fb1743cafd1c02bf5879",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/vray_materials.mdl",
+            "target_hash": "889ec60e1f9b45cf52000da0502e0f5c3100186d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/vray_maps.mdl",
+            "source_hash": "3fabc6c730665b5308b695084bb7189302c814ef",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/templates/vray_maps.mdl",
+            "target_hash": "1f8caae37486d32214f0e826ba672a5b3b5e6b74"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/templates/ad_3dsmax_maps.mdl",
+            "source_hash": "1fd3c346f7c4bfe4b94b92905fd41d3f5d93e4a0",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/templates/ad_3dsmax_maps.mdl",
+            "target_hash": "289feb23be402ba3516b570614460f107646cae7"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/templates/vray_materials.mdl",
+            "source_hash": "ae37a1abb41addd952da710fed62481da0d300ac",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/templates/vray_materials.mdl",
+            "target_hash": "922c365396427225fcc62f96e3d464cb31ad03ff"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_78_5366/3d66Model-1064441-files-7.jpg",
+            "source_hash": "9dca579a51d568dbe0c664ff8c7379e1334ceece",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_78_5366/3d66Model-1064441-files-7.jpg",
+            "target_hash": "afb7a05ddff3444700239c770301955b6ad7f2f3"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_76_520/3d66Model-1064441-files-10.jpg",
+            "source_hash": "df17d62f2871576b13bd65799c24e086492b44cf",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_76_520/3d66Model-1064441-files-10.jpg",
+            "target_hash": "4c71bac8525c867f231f3bb0699f20ff600ac567"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/templates/vray_maps.mdl",
+            "source_hash": "fc8da7ebd185f358c29693b631ff79e9a311976f",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/templates/vray_maps.mdl",
+            "target_hash": "5e8eba0d46997c6950ce1e8179722b9cf65fe158"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_12_8685/3d66Model-1682482-files-2.jpg",
+            "source_hash": "04de0b625528df29dd1404a69f029d70666eb4ea",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_12_8685/3d66Model-1682482-files-2.jpg",
+            "target_hash": "755dc29cbf07d707450c3cf0bfb875faea8f539e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a__111/3d66Model-614976-files-1.jpg",
+            "source_hash": "1baec18d4bc46ce1d22b839742e4bf98d33da8e7",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a__111/3d66Model-614976-files-1.jpg",
+            "target_hash": "f64d7f6b9a52acee0993a1755e9b5bb7d33c1de0"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/H1/0017030035223872_b.jpg",
+            "source_hash": "92885e680450ecbeb5daa440ba3149969b062113",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/H1/0017030035223872_b.jpg",
+            "target_hash": "e2c82b83a6b1276bd1d755489332dbd6d8512e94"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/mucai/3d66Model-1682482-files-1.JPG",
+            "source_hash": "a52194d9ac081f262e4d681900618ddf1b51a9b0",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/mucai/3d66Model-1682482-files-1.JPG",
+            "target_hash": "29a575bf23f172983827f7b6560ee91ffe35f3b6"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____6/1.jpg",
+            "source_hash": "29b15a99d9c6f8e3fcbec0575535b872c4c6e857",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a_____6/1.jpg",
+            "target_hash": "6f33b5108dadc7671c938057baf620ebe6a9e038"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_24_6987/3d66Model-1682482-files-2.jpg",
+            "source_hash": "c74be98b267e29fef5f6c31a3295fc4b381fb60c",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_24_6987/3d66Model-1682482-files-2.jpg",
+            "target_hash": "ee62cf1a160281e81e02b160bf219c00e36fd6fb"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017/3d66Model-1682482-files-4.jpg",
+            "source_hash": "22cd1b3ba5ebca2cb239ce5324bef736a60c261b",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017/3d66Model-1682482-files-4.jpg",
+            "target_hash": "92cdb0d0df3a125410dc4ab1130af0a39870328e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_119_7700/3d66Model-1064441-files-20.jpg",
+            "source_hash": "3daf411c80b7ded1d26fd137dc4d85d98d319132",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_119_7700/3d66Model-1064441-files-20.jpg",
+            "target_hash": "59bee017fc4d8c369541e0e380184767ad75287e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/a______/\u5fae\u4fe1\u56fe\u7247_20200326110616.jpg",
+            "source_hash": "8e60200b51b2192fc500e6e1961906c12c54c8b0",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/a______/\u5fae\u4fe1\u56fe\u7247_20200326110616.jpg",
+            "target_hash": "275e01f82ed49e37794661914194a944ee67ed5e"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017/3d66Model-1682482-files-3.jpg",
+            "source_hash": "2c1b1286bac80d461268f3bb36bacad34825f079",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_15_2017/3d66Model-1682482-files-3.jpg",
+            "target_hash": "539f63db35d76d2e3603d24851ae20e09b1b0522"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_79_1447/3d66Model-1064441-files-8.jpg",
+            "source_hash": "fbea309f93bc74a35c63f0bcce2bffe35ef11d78",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_79_1447/3d66Model-1064441-files-8.jpg",
+            "target_hash": "5d81c627dd832ccff079449dff3b5c2007a8368f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks/Ash_Planks_BaseColor.png",
+            "source_hash": "5b7c07aecdd84b1994b5ac2293e9acc5dff1875a",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks/Ash_Planks_BaseColor.png",
+            "target_hash": "967946d0d0dae49d23f19c775b2d5c7c3498e19c"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks/Ash_Planks_ORM.png",
+            "source_hash": "8525f18cbadb6cab5808952afc7a1172790a3904",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks/Ash_Planks_ORM.png",
+            "target_hash": "f7bb584b1bd8f7294a77ee66a8cc30a54aa96b8f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks/Ash_Planks_Normal.png",
+            "source_hash": "48271f6d877a8dbb4fc3e0b8c959268d1a597e68",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Wood/Ash_Planks/Ash_Planks_Normal.png",
+            "target_hash": "1f2730732885674485d3b925fa50eed9fc782200"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934/3d66Model-1682482-files-4.jpg",
+            "source_hash": "06c7feecd971ae5f5e928bea731ddec6e721c334",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934/3d66Model-1682482-files-4.jpg",
+            "target_hash": "46d5316d55a1e70277f7b7f0c5d338049e202705"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2/3d66Model-1064441-files-13.jpg",
+            "source_hash": "7c30453994179ab16504d0a27faa00e43128411c",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2/3d66Model-1064441-files-13.jpg",
+            "target_hash": "a8d7012df254195487a371ff31b260e7b4a32449"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_80_5821/3d66Model-1064441-files-23.jpg",
+            "source_hash": "3b637e365220fa615c3d8ff6a4ff0d5c0cd9ab01",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_80_5821/3d66Model-1064441-files-23.jpg",
+            "target_hash": "1d98ee6b601fd0d1686f63b7e0f28753e2a1b59d"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866/3d66Model-1682482-files-4.jpg",
+            "source_hash": "dc195230f29625445abfa3c24c6c818c2220fdcf",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866/3d66Model-1682482-files-4.jpg",
+            "target_hash": "856992252b234967821e80a3e7f5e83ee207d210"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413/3d66Model-1682482-files-4.jpg",
+            "source_hash": "b9448689cfe19f7800d08d5534bf01c98930221f",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413/3d66Model-1682482-files-4.jpg",
+            "target_hash": "d6be1da6ad2795a1edeff90ed045beede9d8b1f5"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934/3d66Model-1682482-files-3.jpg",
+            "source_hash": "9b59f94db83a35839b60e59931590583bccb6597",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_18_9934/3d66Model-1682482-files-3.jpg",
+            "target_hash": "8a0af7262fdba00dde67836310c9527a9d6f9a8e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2/3d66Model-1064441-files-18.jpg",
+            "source_hash": "6051069a5a47e4a42e7eaa13849037c592f5f82f",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2/3d66Model-1064441-files-18.jpg",
+            "target_hash": "08a94db4db3f536ca129e3dbf43ad20e38bc9553"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_80_5821/3d66Model-1064441-files-34.jpg",
+            "source_hash": "1b768a0bc04e7cd8f5374dabd64720c29fd3d0ca",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_80_5821/3d66Model-1064441-files-34.jpg",
+            "target_hash": "df3fd47512756f6e3cf05ba0583eb6bbd34ada47"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866/3d66Model-1682482-files-3.jpg",
+            "source_hash": "75b66da5bfbedf5cf3a7fcb6b08566ddd69a5a3c",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_4_6866/3d66Model-1682482-files-3.jpg",
+            "target_hash": "83d2eb4f7bbb7dc9df9bd62557c4efbc2dc26711"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413/3d66Model-1682482-files-3.jpg",
+            "source_hash": "fbca39203b21baa75aca40c5aac1b8a7383bf186",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_13_2413/3d66Model-1682482-files-3.jpg",
+            "target_hash": "04f8a2c64ccd32999d381ebe895f1a28b623ef8a"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_106_7666/3d66Model-1064441-files-25.jpg",
+            "source_hash": "f2544ef7f2ee14e154e878e809d4c93a0e31b461",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_106_7666/3d66Model-1064441-files-25.jpg",
+            "target_hash": "7682433425d73ba9dbdeba38d5740a2e0bb0c23e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2/3d66Model-1064441-files-17.jpg",
+            "source_hash": "a1f431679e4b365d2a7bd4d308e27fd6188e6f32",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose2/3d66Model-1064441-files-17.jpg",
+            "target_hash": "e2ddeaa0d3970d3a56c7077f2b45deb7991077f7"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_106_7666/3d66Model-1064441-files-29.jpg",
+            "source_hash": "d6a9ec5ee70734fc8546eefc93fa1439cfcff48d",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_106_7666/3d66Model-1064441-files-29.jpg",
+            "target_hash": "b6cb50ff296b5ca19f5e9c8f2d5167bd4dfd64b5"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_107_742/3d66Model-1064441-files-21.jpg",
+            "source_hash": "55a1c6f443e58037a049ef67584c7120984341ae",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_107_742/3d66Model-1064441-files-21.jpg",
+            "target_hash": "dd35389e4f88eb542cdbd135d6fae77842eedc8d"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_107_742/3d66Model-1064441-files-22.jpg",
+            "source_hash": "df2b803a9384af975a4910498783f6f1e14b0b18",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_107_742/3d66Model-1064441-files-22.jpg",
+            "target_hash": "ff3a4bd88d881782ffb8530c46dd92a061b9422d"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/a_________21/3d66Model-1682482-files-7.jpg",
+            "source_hash": "158f88f147a052998c51bc8da16c225ee6d5ebf1",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/a_________21/3d66Model-1682482-files-7.jpg",
+            "target_hash": "65e39ca9f65ce63cf73cd0a6382f0bfd38187cb6"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/H2/015bd15bd7f803a801213dea7bb067.png@1280w_1l_0o_100sh.png",
+            "source_hash": "c1bad2b5efc681f776f91c896ece09fe9aad007c",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/H2/015bd15bd7f803a801213dea7bb067.png@1280w_1l_0o_100sh.png",
+            "target_hash": "d0bdc259a7f4c3a0eeee0fba770b1f8b86968c2f"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_81_2791/3d66Model-1064441-files-56.jpg",
+            "source_hash": "0ac485aff288c8a744f8edd5fc5451df64135870",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_81_2791/3d66Model-1064441-files-56.jpg",
+            "target_hash": "d89db3e0e48052de1f9f62625a7c3477d952472e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_28_696/3d66Model-733679-files-8.jpg",
+            "source_hash": "83937162bddb0c3cf59c318dcaa8858f5868fd6e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_733679_28_696/3d66Model-733679-files-8.jpg",
+            "target_hash": "e0b247ac105656d8ac6e70ef2dc20d1adff92c00"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__70/3d66Model-1064441-files-6.jpg",
+            "source_hash": "004bf7477c41ed9c7413135791895ec18a723b55",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__70/3d66Model-1064441-files-6.jpg",
+            "target_hash": "c1d39a973468f1f7fa36c89572e60ed91dba1aa9"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_121/3d66Model-1064441-files-9.jpg",
+            "source_hash": "90394c922da2f6e6669ddbf2003252f38db5069e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_121/3d66Model-1064441-files-9.jpg",
+            "target_hash": "6f7e28abf2f12e9b57539eed18b61934ced4d24c"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/zolty/3d66Model-1064441-files-19.jpg",
+            "source_hash": "f4ba655b2efeb2f71c20deefe0a87741bba3b77a",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/zolty/3d66Model-1064441-files-19.jpg",
+            "target_hash": "9f5c4fd275ffac8cc6c39211da5c538facddde7b"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_12/3d66Model-1064441-files-63.jpg",
+            "source_hash": "169ae44ef579bd2617f854528e7a0067e3d39c4e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Standard_12/3d66Model-1064441-files-63.jpg",
+            "target_hash": "633406ef5a32d8263080e78a550ebfa9460f0915"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_110_7380/3d66Model-1064441-files-11.jpg",
+            "source_hash": "cde5cf60d41895ce7ff64f201830516ebc2945e4",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_110_7380/3d66Model-1064441-files-11.jpg",
+            "target_hash": "c829b231589026d411a5249f8fdba98f170ea65c"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__63/3d66Model-1064441-files-6.jpg",
+            "source_hash": "3a67c5045acbcb29f3985f69149c289099b25dd8",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Material__63/3d66Model-1064441-files-6.jpg",
+            "target_hash": "319bced0eba63f3fcf4f317f24ddec6d0d80ef6a"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3/3d66Model-1064441-files-14.jpg",
+            "source_hash": "1953487b54b09c7271eb45390d3ed82a56d6c901",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3/3d66Model-1064441-files-14.jpg",
+            "target_hash": "c33a7be1c552fa937782be7784fb6f635b9949bf"
+        },
+        {
+            "source_url": "/home/ubuntu/Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_8_624/3d66Model-1682482-files-6.jpg",
+            "source_hash": "f00f27eb5fcae93665f5b470e4b449d51ca51e55",
+            "target_url": "./Downloads/labassert/heat_device/Collected_Scene/Materials/Mat3d66_1682482_8_624/3d66Model-1682482-files-6.jpg",
+            "target_hash": "7b235dcf10ce019dc3fdfc7e71a4999f538a2c78"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_113_174/3d66Model-1064441-files-27.jpg",
+            "source_hash": "3a56c31cc4c59262c88849cdc1258577413fbd3e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_113_174/3d66Model-1064441-files-27.jpg",
+            "target_hash": "2d535ec8e94b6661d92d94bc9d7612be53240068"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3/3d66Model-1064441-files-16.jpg",
+            "source_hash": "8a5b6d8d4a676215e0bb6c054e7d1ddce6d1d3a2",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3/3d66Model-1064441-files-16.jpg",
+            "target_hash": "45b1942eeb5070311d5d592026d7a25ab79d640e"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_113_174/3d66Model-1064441-files-28.jpg",
+            "source_hash": "599a7fb71f0c476967c5b4f5e3ce91d72195f875",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/Mat3d66_1064441_113_174/3d66Model-1064441-files-28.jpg",
+            "target_hash": "6933a88825fe1f7dbb68b424beae7f7cfc6075e0"
+        },
+        {
+            "source_url": "/home/ubuntu/Chemlab/chemistry-lab-simulator/assets/chemistry_lab/Collected_Scene1_v4/TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3/3d66Model-1064441-files-15.jpg",
+            "source_hash": "6d1bfd579ec728bae18139a7b7bb3e2a4a91d16e",
+            "target_url": "./TransferLabSource/Labs/Labs1_usd/0015/Materials/hose3/3d66Model-1064441-files-15.jpg",
+            "target_hash": "e6c3743d3bc0dd25b514610e1e5b3643fe5065e0"
+        }
+    ]
+}

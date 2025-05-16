@@ -1,0 +1,65 @@
+name: level3_pick_pointcloud
+
+task_type: "pick"
+controller_type: "pick"
+
+mode: "collect"
+usd_path: "assets/chemistry_lab/pick_task/scene_shadows.usd"
+show_video: True
+save_video: True
+max_episodes: 100
+
+infer:
+  obs_names: {"camera_1_semantic_pointcloud": 'point_cloud'}
+  policy_model_path: "data/outputs/2025.03.25/12.43.59_train_act_image_pick_pick_data/checkpoints/latest.ckpt"
+  policy_config_path: "data/outputs/2025.03.25/12.43.59_train_act_image_pick_pick_data/.hydra/config.yaml"
+  normalizer_path: "data/outputs/2025.03.25/12.43.59_train_act_image_pick_pick_data/checkpoints/normalize.ckpt"
+
+task:
+  max_steps: 1000
+  obj_paths:
+    - path: "/World/conical_bottle02"
+      position_range:
+        x: [0.24, 0.30]
+        y: [-0.05, 0.05]
+        z: [0.82, 0.82]
+    - path: "/World/conical_bottle03"
+      position_range:
+        x: [0.24, 0.30]
+        y: [-0.05, 0.05]
+        z: [0.82, 0.82]
+    - path: "/World/conical_bottle04"
+      position_range:
+        x: [0.24, 0.30]
+        y: [-0.05, 0.05]
+        z: [0.82, 0.82]
+
+cameras:
+  - prim_path: "/World/Camera1"
+    name: "camera_1"
+    translation: [2, 0, 2]
+    resolution: [256, 256]
+    focal_length: 6
+    orientation: [0.61237, 0.35355, 0.35355, 0.61237]
+    image_type: "semantic_pointcloud"
+    class_to_prim: {
+      "conical_bottle02": "/World/conical_bottle02",
+      "conical_bottle03": "/World/conical_bottle03",
+      "conical_bottle04": "/World/conical_bottle04",
+      "franka": "/World/Franka"
+    }
+
+robot:
+  type: "franka"
+  position: [-0.4, -0, 0.71]
+
+collector:
+  type: "default"
+  compression: null
+
+hydra:
+  run:
+    dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}
+
+multi_run:
+  run_dir: outputs/${mode}/${now:%Y.%m.%d}/${now:%H.%M.%S}_${name}
